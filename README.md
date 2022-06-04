@@ -43,4 +43,5 @@ NOTA: SÓLO PARA LA POSICIÓN DE INICIO EN LA QUE POSICIÓN X = 0 Y POSICIÓN Y 
 
 Creado por:
 Sebastian A. Reyes Romero
+
 Contacto: rerosa@ier.unam.mx
